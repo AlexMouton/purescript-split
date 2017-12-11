@@ -1,0 +1,6 @@
+Data.(List|Array).Split provides a wide range of strategies and a unified
+combinator framework for splitting lists with respect to some sort of
+delimiter.
+
+I have only ported divvy so far but welcome any contributions!
+- Alex Mouton
